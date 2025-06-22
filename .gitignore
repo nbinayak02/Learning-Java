@@ -8,6 +8,7 @@
 .buildpath
 .target
 .tern-project
+.bin/
 
 # Eclipse Core
 .metadata/
